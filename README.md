@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @artinbp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m artin2559 and my ID = @artinbp
+- 👀 I’m front-end developer in middle (vanila js, vue js, svelte js, css, scss, tailwind)
+- 🌱 I’m currently learning bachend and dinamic product controll system
+- 💞️ I’m looking to collaborate on ai and backend 
+- 📫 How to reach me qqqq
 
 <!---
 artinbp/artinbp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
